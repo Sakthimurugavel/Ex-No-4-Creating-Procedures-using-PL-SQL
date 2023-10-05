@@ -12,6 +12,7 @@ To create a procedure using PL/SQL.
 ### Program:
 Developed by:SAKTHIVEL M
 Register no:212222240088
+,,,
 SQL> create table employeee(empid number,empname varchar (20), dept varchar (10) ,salary number);
 
 Table created.
@@ -38,6 +39,7 @@ SQL> begin
 PL/SQL procedure successfully completed.
 
 SQL> select * from employeee;
+'''
 ### Output:
 ![271778690-21bdfd3a-5824-4ad4-91fe-25463f9b662c](https://github.com/Sakthimurugavel/Ex-No-4-Creating-Procedures-using-PL-SQL/assets/118707246/14918af6-5bca-4cda-9273-c9185db6dae3)
 ### Result:
